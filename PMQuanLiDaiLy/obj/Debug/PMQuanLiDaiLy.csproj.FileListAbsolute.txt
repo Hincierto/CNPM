@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\bin\Debug\PMQuanLiDaiLy.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\bin\Debug\PMQuanLiDaiLy.exe
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\bin\Debug\PMQuanLiDaiLy.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.exe
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.FormTBTiepNhanDL.resources
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.FormDangKi.resources
+C:\Users\ADMIN\OneDrive\Máy tính\PMQuanLiDaiLy\PMQuanLiDaiLy\obj\Debug\PMQuanLiDaiLy.FormDangNhap.resources
